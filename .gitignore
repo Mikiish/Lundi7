@@ -1,4 +1,13 @@
+# Environnement Python
 env/
 __pycache__/
 *.pyc
+
+# Configuration sensible
+.env
+
+# Fichiers système / éditeurs
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
